@@ -18,7 +18,7 @@ Here are some of the technologies and languages I am familiar with:
 - Javascript
 - C
 - C++
-- 
+  
 ## Contact
 - Email: mahank11vasu@gmail.com
 - LinkedIn: linkedin.com/in/mahank11vasu/
