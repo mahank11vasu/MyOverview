@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahank Vasu</h1>
 <h3 align="center">Hello! I'm Mahank Vasu, an undergraduate student at Lachoo Memorial College of Science & Technology (AUTONOMOUS), Jodhpur. I have a passion for web development, app development, and data analysis, along with proficiency in several technologies and languages.</h3>
 
-- 🌱 I’m currently learning **python, plsql, php, data mining, cloud computing**
+- 🌱 I’m currently learning **python, plsql, php, node.js, react, cloud computing, salesforce**
 
 - 🤝 Bachelor of Computer Applications (BCA) Lachoo Memorial College, Jodhpur
 
